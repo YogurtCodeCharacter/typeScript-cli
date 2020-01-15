@@ -40,7 +40,7 @@ class Index extends React.Component<IProps, IState> {
         </Menu.Item>
         <Menu.Item key="3">
           <Icon type="upload" />
-          <span className="nav-text">nav 3</span>
+          <span className="nav-text">nav 34</span>
         </Menu.Item>
         <Menu.Item key="4">
           <Icon type="user" />
